@@ -1,9 +1,5 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
 
 # Xylophone 🎹
-
-## Our Goal
 
 In this sample diving into more Dart programming concepts and learning how to use open source Flutter packages. 
 Learn using Flutter packages and building repeated widgets.
